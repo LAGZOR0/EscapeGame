@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\ue_projects\\escapegame\\escapegame\\source\\escapegame\\escapegame.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\ue_projects\\escapegame\\escapegame\\intermediate\\build\\win64\\x64\\escapegameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\ue_projects\\escapegame\\escapegame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\escapegame\\definitions.escapegame.h",
+            "f:\\ue_projects\\escapegame\\escapegame\\source\\escapegame\\escapegame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
